@@ -29,3 +29,5 @@ paragrafo[0].classList.remove("visible")
 const ipt2 = document.querySelector("#login-senha")
 
 ipt2.classList.add("error")
+
+asdfasjkdhdajkshdajkshdasdlkaslkdjaskld
